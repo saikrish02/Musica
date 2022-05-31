@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Musica</string>
+    <string-array name="Songs">
+    <item >Jolly O Gymkhana</item>
+        <item>Halamithi Habibo</item>
+        <item>Beast Mode</item>
+    </string-array>
+</resources>
